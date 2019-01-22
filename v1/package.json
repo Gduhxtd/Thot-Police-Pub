@@ -1,0 +1,11 @@
+{
+  "name": "thotPolice",
+  "version": "1.0.0",
+  "description": "It patrols your server to get rid of thots.",
+  "main": "bot.js",
+  "author": "meheeheehee#1256",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.1.0"
+  }
+}

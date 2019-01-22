@@ -1,0 +1,16 @@
+{
+  "name": "ThotPolice",
+  "version": "1.0.0",
+  "description": "Discord bot that keeps your server safe from unsafe tho(ugh)ts.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.4.2"
+  }
+}
